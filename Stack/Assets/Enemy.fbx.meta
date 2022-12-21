@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 734213d212a9e85428271e80df38a76f
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 7767519513488590839
+    second: Run01FWD
+  - first:
+      74: 2646724620217826704
+    second: Idle01
+  - first:
+      74: 6868592044210321722
+    second: Idle02
+  - first:
+      74: 9033954647404137015
+    second: Idle03
+  - first:
+      74: -566917892213607882
+    second: Attack01
+  - first:
+      74: -7820010813596602565
+    second: Attack02
+  - first:
+      74: -517454539092039161
+    second: Attack03
+  - first:
+      74: -2675821480126423086
+    second: Victory01
+  - first:
+      74: 8682186811558217708
+    second: Victory02
+  - first:
+      74: -1614763485569904976
+    second: Dance01
+  - first:
+      74: 7323770478020532048
+    second: Dance02
+  - first:
+      74: -1052507736196165839
+    second: Run01BWD
+  - first:
+      74: 6811128090344008856
+    second: Run01Left
+  - first:
+      74: -1158925504012587708
+    second: Run01Right
+  - first:
+      74: -6677414259284957757
+    second: Run02
+  - first:
+      74: 3862341172300031519
+    second: JumpOneTake
+  - first:
+      74: -1192840080986744117
+    second: Slide
+  - first:
+      74: 6058210428147672514
+    second: WalkFWD
+  - first:
+      74: 4967179913767357795
+    second: WalkBWD
+  - first:
+      74: -1684538353075855503
+    second: WalkLeft
+  - first:
+      74: -591692918647068772
+    second: WalkRight
+  - first:
+      74: -3443985681492114326
+    second: Grab
+  - first:
+      74: -8454013998400614642
+    second: GrabIdle
+  - first:
+      74: -6185155371445809522
+    second: Throw
+  - first:
+      74: -1250308563666316836
+    second: Push
+  - first:
+      74: 7055355079433224739
+    second: GetHit
+  - first:
+      74: 2783280797313834399
+    second: Defense
+  - first:
+      74: 4309181974158604351
+    second: DefenseHit
+  - first:
+      74: 5047138897551691640
+    second: Dizzy
+  - first:
+      74: 1934680252021187620
+    second: Die01
+  - first:
+      74: 7046478003757731410
+    second: Die01Recover
+  - first:
+      74: -6387083737483851153
+    second: Die02
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
